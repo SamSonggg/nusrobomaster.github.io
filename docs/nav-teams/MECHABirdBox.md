@@ -168,9 +168,9 @@ No | Component Name                        |  Unit Cost (USD) | Qty | Total |
  26|  RoboMaster Development Board OLED           |  14             | 1   | 28    |
  27|  RoboMaster M2006 P36 Brushless DC Gear Motor        |  41             | 1   | 82    |
  28|  RoboMaster C610 Brushless DC Motor Speed Controller             |  25             | 1   | 100    |
- 29|  RoboMaster Development Board Cables         |  20             | 2   | 400    |
+ 29|  RoboMaster Development Board Cables         |  20             | 2   | 40    |
  30|  TB47D Battery|  216            | 2   | 431   |
- 31|  RoboMaster GM6020 Brushless DC Motor| 189             | 1   | 567    |
+ 31|  RoboMaster GM6020 Brushless DC Motor| 189             | 1   | 189    |
 
 ### Total: 4078 USD
 
