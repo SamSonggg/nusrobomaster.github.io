@@ -91,7 +91,10 @@ Specs         | Value|
 
 ### Gimbal
 
-* Upper body of the robot will be mounted on the gimbal, such as the camera, blaster mechanism, high stability needed. If possible, 3-axis industrial grade gimbal will be used.
+* Upper body of the robot will be mounted on the gimbal, such as the camera, blaster mechanism,etc.
+* If possible, 3-axis industrial grade gimbal will be used.
+* High stability needed as the camera will be transmitting live feed to the robot controller
+* Launching mechanism mounted on a seperated gimbal as the camera so that vision will not be affected by the launching of projectiles.
 
 ### Sensors
 
@@ -134,7 +137,7 @@ Specs         | Value|
 * Intelligent Controlle
 
 ### General design and fabrication methods
-* Most parts should be bought online and machined to desired specifications. Prototype, lightweight materials can be 3D printed with Kevyn’s 3D printer, using ABS/PLA material. Samantha can buy cheap electronics and mechanical parts in Shenzhen as well if possible, as well as use laser cutting, lathing equipment etc.
+* Most parts should be bought online and machined to desired specifications. Prototype, lightweight materials can be 3D printed with Kevyn’s 3D printer, using ABS/PLA material to reduce net costs. Samantha can buy cheap electronics and mechanical parts in Shenzhen as well if possible, as well as use laser cutting, lathing equipment etc.
 
 
 ## Proposed Budget
@@ -168,9 +171,9 @@ No | Component Name                        |  Unit Cost (USD) | Qty | Total |
  26|  RoboMaster Development Board OLED           |  14             | 1   | 28    |
  27|  RoboMaster M2006 P36 Brushless DC Gear Motor        |  41             | 1   | 82    |
  28|  RoboMaster C610 Brushless DC Motor Speed Controller             |  25             | 1   | 100    |
- 29|  RoboMaster Development Board Cables         |  20             | 2   | 400    |
+ 29|  RoboMaster Development Board Cables         |  20             | 2   | 40    |
  30|  TB47D Battery|  216            | 2   | 431   |
- 31|  RoboMaster GM6020 Brushless DC Motor| 189             | 1   | 567    |
+ 31|  RoboMaster GM6020 Brushless DC Motor| 189             | 1   | 189    |
 
 ### Total: 4078 USD
 
